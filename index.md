@@ -1,7 +1,9 @@
-#### About Me
+:#### About Me
 [Jeremy Hartman](#Fun-Facts-About-Me)
 *jhartman@ucsd.edu*
+
 3rd year Marshall Student
+
 This is my favorite Thurgood Marshall quote:
 > "Where you see wrong or inequality or injustice, speak out, because this is your country. This is your democracy. Make it. Protect it. Pass it on."
 
@@ -15,10 +17,11 @@ while(UCSD_is_the_best){
 #### Fun Facts About Me
 [This is why c++ is my favorite language](README.md)
 
-![My favorite atrist is Charli XCX
-:)](https://www.rollingstone.com/wp-content/uploads/2019/09/charli-xcx-album-review.jpg?resize=1800,1200&w=1800)
-Here[https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5] is her spotify
+My favorite atrist is Charli XCX! 
+![charli](https://www.rollingstone.com/wp-content/uploads/2019/09/charli-xcx-album-review.jpg?resize=1800,1200&w=1800)
+[Here](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) is her spotify
 page!
+
 My favorite Charli XCX songs:
 1. anthems
 2. 1999 
