@@ -1,8 +1,9 @@
-:#### About Me
-[Jeremy Hartman](#Fun-Facts-About-Me)
+#### About Me
+Hello! My name is [Jeremy Hartman](#Fun-Facts-About-Me)
+
 *jhartman@ucsd.edu*
 
-3rd year Marshall Student
+I am a third year Marshall Student
 
 This is my favorite Thurgood Marshall quote:
 > "Where you see wrong or inequality or injustice, speak out, because this is your country. This is your democracy. Make it. Protect it. Pass it on."
