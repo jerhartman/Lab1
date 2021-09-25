@@ -18,7 +18,7 @@ while(UCSD_is_the_best){
 #### Fun Facts About Me
 [This is why c++ is my favorite language](README.md)
 
-My favorite atrist is Charli XCX! 
+My favorite artist is Charli XCX! 
 ![charli](https://www.rollingstone.com/wp-content/uploads/2019/09/charli-xcx-album-review.jpg?resize=1800,1200&w=1800)
 [Here](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) is her spotify
 page!
